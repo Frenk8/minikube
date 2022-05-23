@@ -30,7 +30,7 @@ require (
 	github.com/google/slowjam v1.0.0
 	github.com/google/uuid v1.3.0
 	github.com/gookit/color v1.4.2 // indirect
-	github.com/hashicorp/go-getter v1.5.5
+	github.com/hashicorp/go-getter v1.6.1
 	github.com/hashicorp/go-retryablehttp v0.7.0
 	github.com/hectane/go-acl v0.0.0-20190604041725-da78bae5fc95 // indirect
 	github.com/hooklift/assert v0.0.0-20170704181755-9d1defd6d214 // indirect
@@ -83,7 +83,7 @@ require (
 	golang.org/x/mod v0.4.2
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210629170331-7dc0b73dc9fb
+	golang.org/x/sys v0.0.0-20220517195934-5e4e11fc645e
 	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
 	golang.org/x/text v0.3.6
 	gonum.org/v1/plot v0.9.0
